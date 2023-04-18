@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello :>
+
+Welcome to my profile!✨  
+My name is Chromics \ (^v^) /  
+
+Here are some things about me: ![hm](https://media.giphy.com/media/8lQyyys3SGBoUUxrUp/giphy.gif)
+
+- Pronouns: She/Her
+- Currently learning WebDev ![catFuriouslyTyping](https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif)
+- Working on personal projects ![manRunning](https://media.giphy.com/media/qyjQsUt0p0TT2/giphy.gif)
 
 <!--
 **Chromics/Chromics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
