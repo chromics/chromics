@@ -8,6 +8,6 @@ My name is **Chromics** \ (^v^) /
 
 - **Pronouns**: She/Her
 
-- Currently learning **WebDev** <img class="animated-gif" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="20" >
+- Currently learning **Java** <img class="animated-gif" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="20" >
 
-- Working on personal projects <img class="animated-gif" src="https://media.giphy.com/media/qyjQsUt0p0TT2/giphy.gif" width="20" > 
+- Working on school projects <img class="animated-gif" src="https://media.giphy.com/media/qyjQsUt0p0TT2/giphy.gif" width="20" > 
