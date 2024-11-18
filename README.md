@@ -1,6 +1,4 @@
-## Hi 
-
-<div style="display: flex; flex-direction: row; align-items: center;">About-me: <img class="animated-gif" style="vertical-align: middle" src="https://media.giphy.com/media/8lQyyys3SGBoUUxrUp/giphy.gif" width="20" >
+<div style="display: flex; flex-direction: row; align-items: center;"> ## About-me: <img class="animated-gif" style="vertical-align: middle" src="https://media.giphy.com/media/8lQyyys3SGBoUUxrUp/giphy.gif" width="20" >
 </div>
 
 - learning cs rn <img class="animated-gif" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="20" >
